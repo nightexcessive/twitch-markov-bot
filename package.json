@@ -54,7 +54,7 @@
 		"@types/dotenv": "^2.0.20",
 		"@types/jest": "^19.2.2",
 		"@types/lodash": "^4.14.63",
-		"@types/mongodb": "^2.1.43",
+		"@types/mongodb": "^2.2.15",
 		"@types/mongoose": "^4.7.9",
 		"@types/node": "^7.0.12",
 		"concurrently": "^3.4.0",
